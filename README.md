@@ -1,32 +1,3 @@
-#Lenguage necessary
+### Abstract
 
-python version 3.7.9
-pip version 20.1.1
-git version 2.36.1.windows.1
-
-
-#The first is necessary create a digital enviorement 
-
-#code for windows:
-
-    .\TRABAJOGRADO
-    git init
-    python -m venv env 
-    doskey STAR = .\env\Scripts\activate
-    doskey CLOSE = .\env\Srcipts\deactivate 
-    STAR
-
-#After we install 
-
-    pip install pandas 
-
-
-#If you wash send the local repository to remote repository you can:
-
-    git remote add modelpaper https://github.com/AlejoClavijo/phillips-curve-with-power-labor-market-Colombia.git
-
-    (Only if you don´t change of name of the branch)
-        git branch -m main 
-
-    git push -u modelpaper main 
-
+This ongoing research examines the influence of labor market power (monopsony) on workers' wages, analyzed through a Phillips curve framework in the Colombian labor market from 2008 to 2020. By exploring the dynamics between employer concentration and wage-setting mechanisms, this study aims to provide insights into the extent to which monopsonistic practices affect wage levels and employment conditions. The findings are expected to contribute to a deeper understanding of labor market inefficiencies and inform policy recommendations to enhance labor market outcomes in Colombia.
